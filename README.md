@@ -6,7 +6,7 @@ I work primarily with **JavaScript / TypeScript ecosystems**, developing product
 
 ## 🧠 About Me
 
-- 💻 Software Engineer with **3+ years of professional experience**
+- 💻 Software Engineer with **4+ years of professional experience**
 - 📱 Strong focus on solve real problems with **modern technologies**
 - 🧩 Experience designing **APIs, services, and event-driven systems**
 - 🧪 Software architecture enthusiast with a habit of keeping his hands on code
