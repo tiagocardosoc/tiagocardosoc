@@ -1,23 +1,22 @@
-# 👋 Hi, I'm Tiago Cardoso (tg)
+# 👋 Hi, I'm Tiago Cardoso
 
-I'm a **Software Engineer** with strong experience in building **scalable web and mobile applications**, focused on a clean designed and effective architecture, performance, and maintainability.
+Software Engineer focused on what happens behind the scenes — where
+architecture decisions quietly shape everything else.
 
-I work primarily with **JavaScript / TypeScript ecosystems**, developing products that range from **mobile and web applications apps** to **backend services and APIs**, often in **monorepo architectures**.
+I work across the full stack, but I'm most at home designing systems
+that are built to last: clean boundaries, predictable behavior,
+and code that future developers (including myself) won't dread touching.
 
 ## 🧠 About Me
 
-- 💻 Software Engineer with **4+ years of professional experience**
-- 📱 Strong focus on solve real problems with **modern technologies**
-- 🧩 Experience designing **APIs, services, and event-driven systems**
-- 🧪 Software architecture enthusiast with a habit of keeping his hands on code
-- 🦾 AI won't kill us, just make us stronger
-
-I enjoy solving real business problems through technology and care deeply about **developer experience** and **code longevity**.
+- 💻 4+ years building production software that people actually use
+- 🏗️ Architecture enthusiast who still keeps his hands on the code
+- 🧩 Comfortable across web, mobile, APIs, and event-driven systems
+- 🤝 Cares deeply about developer experience and long-term maintainability
+- 🦾 AI won't replace us — it'll just raise the bar for what we build
 
 ---
 
 ## 📫 Get in Touch
 
-- GitHub: **@tg**
-- LinkedIn: *(https://www.linkedin.com/in/tiagocardosoc/)*
-
+- LinkedIn: [tiagocardosoc](https://www.linkedin.com/in/tiagocardosoc/)
